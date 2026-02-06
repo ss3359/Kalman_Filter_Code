@@ -12,7 +12,7 @@ x = [x, y, z]^T
 
 ## Algorithm
 1. Simulate true state (x_true)
-2. Predict estimate (x̂⁻)
+2. Predict estimate (x_est)
 3. Update with noisy measurement
 4. Track estimation error and covariance trace
 
